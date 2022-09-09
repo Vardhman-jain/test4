@@ -1,0 +1,11 @@
+*{
+font-weight: lighter;
+font-family: helvetica;
+}
+.cards{
+display: flex;
+}
+.card{
+background-color:#6a040f;
+color: #4ba3c3;
+}
